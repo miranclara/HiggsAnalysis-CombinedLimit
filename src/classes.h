@@ -69,5 +69,7 @@
 
 #include "HiggsAnalysis/CombinedLimit/interface/HZZ4L_RooHighmass.h"
 #include "HiggsAnalysis/CombinedLimit/interface/HZZ4L_RooHighmass_WoInt.h"
+#include "HiggsAnalysis/CombinedLimit/interface/SplinePdf.h"
+#include "HiggsAnalysis/CombinedLimit/interface/HZZ4L_RooHighmass_1D.h"
 
 

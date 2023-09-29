@@ -223,5 +223,7 @@
   <class name="SimpleProdPdf" />
   <class name="HZZ4L_RooHighmass" />
   <class name="HZZ4L_RooHighmass_WoInt" />
+  <class name="SplinePdf" />
+  <class name="HZZ4L_RooHighmass_1D" />
 
 </lcgdict>
